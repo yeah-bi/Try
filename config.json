@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Caitvi",
   "sort-albums-by": "caitvi",
   "sort-media-by": "filename",
   "download-photos": "copy",
